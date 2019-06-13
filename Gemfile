@@ -67,8 +67,8 @@ gem 'simple_form'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
-<<<<<<< HEAD
+
 end
-=======
-end
->>>>>>> 25b48eb... Added logo & Slogan and style with CSS
+#=======
+#end
+#>>>>>>> 25b48eb... Added logo & Slogan and style with CSS
